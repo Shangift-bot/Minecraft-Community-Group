@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 350%;
+}
+button {
+  padding: 50px 50px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin: 20px;
+}
+button {
+  font-size: 20px;
+}
+html {
+  background-image: url('Minecraft.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+button {
+  color: blue;
+}
+h1, p {
+  color: white;
+}
+h2 {
+  color: blue;
+  font-size: 24px;
+}
